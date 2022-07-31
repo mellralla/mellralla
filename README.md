@@ -1,8 +1,14 @@
 ## 🌻！*Loey*⠀．⠀
 
+
 <div align="center">
   <a href="https://github.com/loeycism">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Loeycism&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+          <! -- github stats -->
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Loeycism&count_private=true&include_all_commits=true&show_icons=true&theme=ayu-mirage&hide_border=false&show_owner=true"/>
+           <! -- language use -->
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loeycism&theme=ayu-mirage&hide_border=false&&layout=compact"/>
+           <! -- 
+  </a>
 </div>
 
 <div align="center">
