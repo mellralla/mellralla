@@ -4,10 +4,12 @@
 <div align="center">
   <a href="https://github.com/loeycism">
           <! -- github stats -->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Loeycism&count_private=true&include_all_commits=true&show_icons=true&theme=ayu-mirage&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Loeycism&count_private=true&include_all_commits=true&show_icons=false&&title_color=ebd0a9&text_color=bcbdb9&bg_color=22272e&cache_seconds=1800&locale=en&hide_border=false&show_owner=true"/>
            <! -- language use -->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loeycism&theme=ayu-mirage&hide_border=false&&layout=compact"/>
-           <! -- 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loeycism&theme=ayu-mirage&hide_border=false&&layout=compact&title_color=ebd0a9&text_color=bcbdb9&bg_color=22272e&cache_seconds=1800&locale=en"/>
+           <! -- streak -->
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=loeycism&theme=darcula&background=22272E&fire=D2B270&ring=EBD0A9&dates=BCBDB9&sideNums=BCBDB9&currStreakNum=BCBDB9&currStreakLabel=D2B270&sideLabels=D2B270"/>
+    
   </a>
 </div>
 
@@ -17,7 +19,7 @@
 </div>
   
 <div align="center" valign="top"><br>
-  <p><b> Learning :) </b></p>
+  <p><b> Learning </b></p>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
