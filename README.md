@@ -4,11 +4,11 @@
 <div align="center">
   <a href="https://github.com/loeycism">
           <! -- github stats -->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Loeycism&count_private=true&include_all_commits=true&show_icons=false&&title_color=ebd0a9&text_color=bcbdb9&bg_color=22272e&cache_seconds=1800&locale=en&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Loeycism&count_private=true&include_all_commits=true&show_icons=false&&title_color=ebd0a9&text_color=bcbdb9&bg_color=22272e&cache_seconds=1800&locale=en&hide_border=false&show_owner=true">
            <! -- language use -->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loeycism&theme=ayu-mirage&hide_border=false&&layout=compact&title_color=ebd0a9&text_color=bcbdb9&bg_color=22272e&cache_seconds=1800&locale=en"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loeycism&theme=ayu-mirage&hide_border=false&&layout=compact&title_color=ebd0a9&text_color=bcbdb9&bg_color=22272e&cache_seconds=1800&locale=en">
            <! -- streak -->
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=loeycism&theme=darcula&background=22272E&fire=D2B270&ring=EBD0A9&dates=BCBDB9&sideNums=BCBDB9&currStreakNum=BCBDB9&currStreakLabel=D2B270&sideLabels=D2B270"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=loeycism&theme=darcula&background=22272E&fire=D2B270&ring=EBD0A9&dates=BCBDB9&sideNums=BCBDB9&currStreakNum=BCBDB9&currStreakLabel=D2B270&sideLabels=D2B270">
     
   </a>
 </div>
