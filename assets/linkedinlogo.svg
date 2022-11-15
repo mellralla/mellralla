@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+	<title>Novo Projeto</title>
+	<defs>
+		<image  width="500" height="500" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0AQMAAADxGE3JAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAAD/UlEQVR4nO3dQXajMAwGYHhZsMwRfBSOZh+No/gILLPICzMkJMW26OiXCG6m0moo/l6KLBvTMNA0FhYWFhYWFhYVo5sYETZ5y+HTddM7lp/ilufxzV/gzPRbGWD++tM00N5z/YXkJy6fbrrD30hAz/dRdfh0AnjF9wiqAvjp+xu69JEJdIgnEugRTyQQ4UQCofQRFYj5sgNYU9dXFB0AdR8xhHvMFx3oMT+quq8sAGT0zJEXAOrzAgC7vygAsPuLAnCoH5Q+K4Ae9VkB+KN9VkAozzxaPnkB4j4tQLj8Mg+XX1aAWg/OXoV3uB+UPq59f7xPBoD/PJ8MIJyr/XoA4sMv9fjw0/ub0k87esHw1/uwnxdMP/X9sJ93v9HHn+N788+4sefikfSBPZmRfp6VvcJH/mgk/bzFPIBNz8wg5R8nVbkfgXKg/KMmeAmk/HDf5J0OKB8afgcQfjkn8zrgDf65ppD655rKK33/DfvOj0ofl233oX5YtlkD4A0+LNusAfQG3+zkWQPYfO5v5qv62v3/Y3yt+ae2H5btWvN/3Mm7Sl67ftCuX7TrJ+36Tbt+XAageP2rXT+r1++RXz5vuX7RXj/d+N1HX/8FdvpoP3eA5vp1ToBX+In/xzzaX5V/P+CHefPmzZv/AH8tVwWQJ1oh/t62JX7G9IFo9s36dz6FPtei86cu60In9cvPT1I/LP/2Qv9s52T+dV3eyfzrq+ZW5uOroa/iw6uhE/mvhp3Er77pPkn86pv+VuLXdypIfGzKlkf6YeXPAh90PrlTqFP6E+6TO6Va3Kd3amm9h/2Y+B72cVfvYB8Sfz7cJ3xVgEyfhdafKvtW6Zva3lf2/Yd79+H+/IF+fQ7oBH7dWOC79d1+Aj93WVD4eVd8bpxk/tW6hf39E8s1ONvfj/gq9/eKucn9Y6/c+/u+8NyE/WPfUMsvBxyl/rSPH6W+y5p7mb9I/Vnp3T7+KvX9Pv4m9f6H+bzxu/2ybzJfxbfmHxHMmzdv3rx58+bNmzdv3rx58+bNmzdv3rx58+bNmze/6eP/491OHoraftjP135+2Ec+P23luxq+2c/Xfv6f9vmF7b+bF5H8t4AK/rKn98f7ce37431ce3e8H9ZeMIFofVh7wQSQeMEAbHQ+fX4wPoCzB3Af7i+p96gf9/U96mPqHeqH1MMFnHm4gFMOF2D+/HW0AIsH+IO+eIGAx/wl9z3mx9w7zMfcgwUQcg8WQM7V70/ACoB4gQbki+4DO7BIP9gBQ+mhDig5lEDqBSyIJ99g0/N9Uf1zOL4n0gclkOJABW28wKfn+kh79gEE2rOHIM0lD/4RHcAWZ2Zw8+N5R0AMfQsLCwsLCwsLi98TfwDodCV16hmCUwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="new-linkedin-logo-white-black-png" href="#img1" x="0" y="0"/>
+</svg>
