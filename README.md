@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=68753e&fontColor=e5d5c5&height=250&section=header&text=Olá%20!&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=68753e&fontColor=ffffff&height=200&section=header&text=Olá%20!&fontSize=60&animation=fadeIn&fontAlignY=40" />
 
 <p align="left">
 <img align="right" alt="minha imagem" width="300" src="assets/imagem01.png">
@@ -33,3 +33,5 @@
     
   </a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=68753e&fontColor=e5d5c5&height=150&section=footer&animation=fadeIn" />
