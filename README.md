@@ -13,8 +13,8 @@
 - 🪴 Você pode me achar nas minhas redes sociais:
 
 <div align="center">
-  <a href="https://instagram.com/mellralla" target="_blank"><img height="50em" src="assets/iglogo.svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/melissa-ralla/" target="_blank"><img height="50em" src="assets/linkedinlogo.svg" target="_blank"></a>
+  <a href="https://instagram.com/mellralla"><img height="50em" src="assets/iglogo.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/melissa-ralla/"><img height="50em" src="assets/linkedinlogo.svg" target="_blank"></a>
 </div>
 </p>
 
