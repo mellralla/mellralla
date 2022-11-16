@@ -4,13 +4,13 @@
 <img align="right" alt="minha imagem" width="300" src="assets/imagem01.png">
 <h1>Bem-vindo!</h1>
 
-- 🌿 Pode me chamar de Mel!
+- :herb: Pode me chamar de Mel!
 
-- 🌱 No momento estou aprendendo **Python** e estudando **AWS**
+- :seedling: No momento estou aprendendo **Python** e estudando **AWS**
 
-- ☘️ Muita prentenção de me desenvolver em **segurança da informação**
+- :deciduous_tree: Muita prentenção de me desenvolver em **segurança da informação**
 
-- 🪴 Você pode me achar nas minhas redes sociais:
+- :cactus: Você pode me achar nas minhas redes sociais:
 
 <div align="center">
   <a href="https://instagram.com/mellralla"><img height="50em" src="assets/iglogo.svg" target="_blank"></a>
