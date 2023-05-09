@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=200&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=150&section=header" />
 
 <p align="left">
 <img align="right" alt="minha imagem" width="300" src="https://media.discordapp.net/attachments/929899914836738061/1105261250348339370/ffbb0050d9b94168ebe7dd8a7d09374a.gif">
