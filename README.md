@@ -6,9 +6,9 @@
 
 - 🌸 Pode me chamar de Mel!
 
-- 🫧 No momento estou aprendendo **Python** e estudando **AWS**
+- 🫧 No momento estou aprendendo **JAVA** e estudando sobre **SALESFORCE**
 
-- 🌷 Muita prentenção de me desenvolver em **segurança da informação**
+- 🌷 Muita prentenção de me desenvolver em **front end**
 
 - 🧁 Você pode me achar nas minhas redes sociais:
 
