@@ -10,9 +10,7 @@
 
 - 🍧 Graduated in **Systems Analysis and Development** and post-graduated in **Criminology**
 
-- 🫧 I'm currently learning **JAVA** and studying about **INFORMATION SECURITY**.
-
-- 🌷 I intend to develop myself in **front end**
+- 🫧 I'm currently learning **FRONT END** technologys, **JAVA** and studying about **INFORMATION SECURITY**.
 
 - 🧁 You can find me on my social networks:
 
