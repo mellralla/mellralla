@@ -1,21 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=70&section=header" />
 
 <p align="left">
 <img align="right" alt="minha imagem" width="300" src="https://media.discordapp.net/attachments/929899914836738061/1105261250348339370/ffbb0050d9b94168ebe7dd8a7d09374a.gif">
-<h1>Bem-vindo!</h1>
+<h1>Hello!</h1>
 
-- 🌸 Pode me chamar de Mel!
+- 🌸 You can call me **Mel**!
 
-- 🫧 No momento estou aprendendo **JAVA** e estudando sobre **SALESFORCE**
+- 📍 I'm from São Paulo, Brazil
 
-- 🌷 Muita prentenção de me desenvolver em **front end**
+- 🍧 Graduated in **Systems Analysis and Development** and post-graduated in **Criminology**
 
-- 🧁 Você pode me achar nas minhas redes sociais:
+- 🫧 I'm currently learning **JAVA** and studying about **INFORMATION SECURITY**.
 
-<div align="center">
-  <a href="https://instagram.com/mellralla"><img height="50em" src="assets/iglogo.svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/melissa-ralla/"><img height="50em" src="assets/linkedinlogo.svg" target="_blank"></a>
-</div>
+- 🌷 I intend to develop myself in **front end**
+
+- 🧁 You can find me on my social networks:
+
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ef95ae&color=FFFFFF)](https://www.linkedin.com/in/melissa-ralla/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=ef95ae&color=FFFFFF)](https://instagram.com/mellralla)
 </p>
 
 <br>
@@ -25,11 +27,20 @@
 <div align="center">
   <a href="https://github.com/loeycism">
           <! -- github stats-->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mellralla&count_private=true&include_all_commits=true&show_icons=false&&title_color=ef95ae&text_color=ef95ae&bg_color=22272e&cache_seconds=1800&locale=en&hide_border=false&show_owner=true">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mellralla&count_private=true&include_all_commits=true&show_icons=false&&title_color=ef95ae&text_color=ef95ae&bg_color=FFFFFF&cache_seconds=1800&locale=en&hide_border=false&show_owner=true">
            <! -- language use -->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellralla&theme=ayu-mirage&hide_border=false&&layout=compact&title_color=ef95ae&text_color=ef95ae&bg_color=22272e&cache_seconds=1800&locale=en">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellralla&theme=ayu-mirage&hide_border=false&&layout=compact&title_color=ef95ae&text_color=ef95ae&bg_color=FFFFFF&cache_seconds=1800&locale=en">
     
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=150&section=footer&animation=fadeIn" />
+<details align="left">
+  <summary></summary>
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a><br>
+  - Inspired by <a href="https://github.com/elidianaandrade">EA</a><br>
+</details>
+ 
+<div align="right">Made with <strong>love</strong> by <a href="https://github.com/mellralla">MR 🌸</a>.</div>
+
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=ef95ae&fontColor=ef95ae&height=70&section=footer&animation=fadeIn" />
