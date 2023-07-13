@@ -18,14 +18,10 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=ef95ae&color=FFFFFF)](https://instagram.com/mellralla)
 </p>
 
-<br>
-<br>
-<br>
-
 <div align="center">
   <a href="https://github.com/loeycism">
-           <! -- language use -->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellralla&theme=ayu-mirage&hide_border=false&&layout=compact&title_color=ef95ae&text_color=ef95ae&bg_color=FFFFFF&cache_seconds=1800&locale=en">
+    <! -- language use -->
+    <! -- img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellralla&theme=ayu-mirage&hide_border=false&&layout=compact&title_color=ef95ae&text_color=ef95ae&bg_color=FFFFFF&cache_seconds=1800&locale=en">
     
   </a>
 </div>
